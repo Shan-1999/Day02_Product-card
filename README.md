@@ -1,1 +1,1 @@
-# Day02_Product-card
+# Day02_Boilerplate
